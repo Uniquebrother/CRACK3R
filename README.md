@@ -22,6 +22,7 @@ $ git clone https://github.com/Uniquebrother/CRACK3R
 
 
 Tools Setup & Run :
+
 $ clear && ls && cd CRACK3R && ls
 
 $ python2 CRACK3R.py
