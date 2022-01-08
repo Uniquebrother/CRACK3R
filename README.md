@@ -25,4 +25,4 @@ Tools Setup & Run :
 
 $ clear && ls && cd CRACK3R && ls
 
-$ python2 CRACK3R.py
+$ python2 N1LOY_C_C_F.py
