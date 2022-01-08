@@ -1,5 +1,6 @@
 # CRACK3R
-Public Id CLONer 
+Public freind list Id CLONer  
+
 Installation :
 
 $ pkg update && pkg upgrade 
